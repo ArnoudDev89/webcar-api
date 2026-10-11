@@ -17,8 +17,4 @@ class WebcarApiApplicationTests {
 
 	@MockBean
 	private com.arnouddev89.webcar_api.message.KafkaProducerMessage kafkaProducerMessage;
-
-	@Test
-	void contextLoads() {
-	}
 }
